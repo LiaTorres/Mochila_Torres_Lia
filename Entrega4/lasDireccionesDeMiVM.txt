@@ -1,0 +1,6 @@
+Direcciones IP VM
+IP Privada VM: 10.0.2.15
+IP Publica VM: 179.24.198.57
+Direccion MAC VM: 08:00:27:2d:3c:7f
+La IP Privada de la VM es diferente a la IP privada de la maquina HOST, en cambio la IP Publica de la VM es la misma que la de la maquina HOST
+
